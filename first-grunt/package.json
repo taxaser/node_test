@@ -1,0 +1,10 @@
+{
+  "name": "testGrunt",
+  "Version": "0.1.0",
+  "description": "this is a test project width grunt,",
+  "author": "taxaser",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  }
+}

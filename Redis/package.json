@@ -1,0 +1,8 @@
+{
+    "name":"app",
+    "version":"0.0.1",
+    "dependenices":{
+        "express": "3.5.0",
+        "redis" : "0.10.1"
+    }
+}
